@@ -1,23 +1,38 @@
 {
-  "name": "fatec_pocket_landing_page",
-  "version": "1.0.0",
-  "description": "A new Flutter project.",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
+  "name": "learning-hooks",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "baseui": "^9.69.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "styletron-engine-atomic": "^1.4.6",
+    "styletron-react": "^5.2.7"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrunoEleodoro/fatec_pocket_landing_page/issues"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "homepage": "https://brunoeleodoro.github.io/fatec_pocket_landing_page/",
-  "dependencies": {
-    "gh-pages": "^2.1.1"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
