@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a79656189cea6231aa69621809103069",
+    "revision": "e064b40ca9ddcdd09e15dad7cdbf463b",
     "url": "/fatec_pocket_landing_page/index.html"
   },
   {
-    "revision": "eec6d662c672ec948b03",
+    "revision": "55f1b199ddec2e309e58",
     "url": "/fatec_pocket_landing_page/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fatec_pocket_landing_page/static/js/2.15c8402c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eec6d662c672ec948b03",
-    "url": "/fatec_pocket_landing_page/static/js/main.5f60171f.chunk.js"
+    "revision": "55f1b199ddec2e309e58",
+    "url": "/fatec_pocket_landing_page/static/js/main.46230adf.chunk.js"
   },
   {
     "revision": "357d89738029195d3348",

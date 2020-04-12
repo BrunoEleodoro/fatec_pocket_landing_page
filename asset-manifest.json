@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fatec_pocket_landing_page/static/css/main.5f361e03.chunk.css",
-    "main.js": "/fatec_pocket_landing_page/static/js/main.5f60171f.chunk.js",
-    "main.js.map": "/fatec_pocket_landing_page/static/js/main.5f60171f.chunk.js.map",
+    "main.js": "/fatec_pocket_landing_page/static/js/main.46230adf.chunk.js",
+    "main.js.map": "/fatec_pocket_landing_page/static/js/main.46230adf.chunk.js.map",
     "runtime-main.js": "/fatec_pocket_landing_page/static/js/runtime-main.8855170a.js",
     "runtime-main.js.map": "/fatec_pocket_landing_page/static/js/runtime-main.8855170a.js.map",
     "static/js/2.15c8402c.chunk.js": "/fatec_pocket_landing_page/static/js/2.15c8402c.chunk.js",
     "static/js/2.15c8402c.chunk.js.map": "/fatec_pocket_landing_page/static/js/2.15c8402c.chunk.js.map",
     "index.html": "/fatec_pocket_landing_page/index.html",
-    "precache-manifest.82454114ecdd484b17a21ba2dc731763.js": "/fatec_pocket_landing_page/precache-manifest.82454114ecdd484b17a21ba2dc731763.js",
+    "precache-manifest.1f7734994aba45e279ff43d0d3654b68.js": "/fatec_pocket_landing_page/precache-manifest.1f7734994aba45e279ff43d0d3654b68.js",
     "service-worker.js": "/fatec_pocket_landing_page/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/fatec_pocket_landing_page/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.15c8402c.chunk.js.LICENSE.txt": "/fatec_pocket_landing_page/static/js/2.15c8402c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8855170a.js",
     "static/js/2.15c8402c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5f60171f.chunk.js"
+    "static/js/main.46230adf.chunk.js"
   ]
 }
