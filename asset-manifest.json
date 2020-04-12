@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fatec_pocket_landing_page/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fatec_pocket_landing_page/static/js/main.a87ea445.chunk.js",
+    "main.js.map": "/fatec_pocket_landing_page/static/js/main.a87ea445.chunk.js.map",
+    "runtime-main.js": "/fatec_pocket_landing_page/static/js/runtime-main.8855170a.js",
+    "runtime-main.js.map": "/fatec_pocket_landing_page/static/js/runtime-main.8855170a.js.map",
+    "static/js/2.acd9b5e8.chunk.js": "/fatec_pocket_landing_page/static/js/2.acd9b5e8.chunk.js",
+    "static/js/2.acd9b5e8.chunk.js.map": "/fatec_pocket_landing_page/static/js/2.acd9b5e8.chunk.js.map",
+    "index.html": "/fatec_pocket_landing_page/index.html",
+    "precache-manifest.1b7a212cb173d5d2aa13d657c4e0db88.js": "/fatec_pocket_landing_page/precache-manifest.1b7a212cb173d5d2aa13d657c4e0db88.js",
+    "service-worker.js": "/fatec_pocket_landing_page/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fatec_pocket_landing_page/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.acd9b5e8.chunk.js.LICENSE.txt": "/fatec_pocket_landing_page/static/js/2.acd9b5e8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fatec_pocket_landing_page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8855170a.js",
+    "static/js/2.acd9b5e8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a87ea445.chunk.js"
+  ]
+}
