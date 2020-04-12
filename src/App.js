@@ -21,10 +21,11 @@ const engine = new Styletron();
 
 function App() {
     useEffect(() => {
-        document.body.style.backgroundColor='#000'    });
+        // document.body.style.backgroundColor='#000'    
+    });
     return (
         <StyletronProvider value={engine}>
-            <BaseProvider theme={DarkTheme}>
+            <BaseProvider theme={LightTheme}>
                 
                 <Router>
                     {/* <AppBar/> */}
